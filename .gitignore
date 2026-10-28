@@ -1,0 +1,31 @@
+# Системные файлы и ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Среды разработки и IDE
+.idea/
+.vscode/
+*.suo
+*.nx
+*.sublime-workspace
+*.sublime-project
+
+# Зависимости и пакеты
+node_modules/
+vendor/
+
+# Сборка и скомпилированные файлы
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Файлы окружения с паролями
+.env
+.env.local
